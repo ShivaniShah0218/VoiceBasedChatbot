@@ -1,0 +1,6 @@
+transformers
+torch
+faster-whisper
+TTS
+faiss-cpu          # or faiss-gpu if using CUDA
+sentence-transformers  # for embedding generation
