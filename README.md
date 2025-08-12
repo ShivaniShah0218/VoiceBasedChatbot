@@ -1,7 +1,7 @@
 # VoiceBasedChatbot
 RAG-Driven Voice Interaction Assistant
 
-This project demonstrates an end-to-end pipeline combining **ASR (Automatic Speech Recognition)**, **Language Modeling**, and **Text-to-Speech (TTS)** using lightweight and efficient models. It captures spoken input, processes it using a small language model, and synthesizes a spoken response.
+This project demonstrates an end-to-end pipeline combining **ASR (Automatic Speech Recognition)**, **Language Modeling**, and **Text-to-Speech (TTS)** using lightweight and efficient models. It takes query in either form: audio or text, finds the relevant text from the files uploaded and generates the response and synthesizes the response into spoken response.
 
 ## 🔧 Components Used
 
