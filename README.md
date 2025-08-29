@@ -36,3 +36,12 @@ source venv/bin/activate  # or venv\Scripts\activate on Windows
 
 # Install dependencies
 pip install -r requirements.txt
+
+# Run the app
+python -m frontend.webapp
+
+# Open in browser at:
+http://127.0.0.1:7860
+
+
+
